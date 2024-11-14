@@ -1,16 +1,7 @@
 # onboarding_practice
 
-A new Flutter project.
+<img src = "https://github.com/user-attachments/assets/4eb3e699-4f5f-487e-8c8d-09b6f2cc8d41" width = "50%" />
 
-## Getting Started
+<img src = "https://github.com/user-attachments/assets/24920511-b7de-4f31-8758-620805eeea55" width = "50%" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/776f237f-8b4a-4ea5-aed2-32fd0270c8d5" width = "50%" />
